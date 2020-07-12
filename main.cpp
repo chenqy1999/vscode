@@ -45,6 +45,10 @@ int main(){
 
 
     text* ptr = new text();
+    text* ptr = new text();
+    text* ptr = new text();
+    text* ptr = new text();
+    text* ptr = new text();
     //delete ptr;    
     
 
